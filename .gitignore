@@ -9,7 +9,17 @@
 *.user
 *.userosscache
 *.sln.docstates
-
+# ignore these files 
+* SRR 
+*.bam
+*.vcf   
+*.sam 
+*.bai 
+*.fastq
+*.html
+*.fai
+*.gz 
+*.idx 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
